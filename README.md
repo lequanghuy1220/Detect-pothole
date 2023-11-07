@@ -18,4 +18,4 @@
 + Detect through dash cam
 
 Github Link: https://github.com/lequanghuy1220/Detect-pothole
-*Watch the video in my VideoDetectPothole file to better understand what I did*
+*Watch the video in my VideoDetectPothole/ImageDetect file to better understand what I did*
